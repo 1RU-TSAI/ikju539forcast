@@ -26,11 +26,11 @@ html_content = f"""
 </head>
 <body>
     <div class="container">
-        <h1>🔮 今彩539 每日預測 (Random)</h1>
-        <p>今日推薦號碼：</p>
+        <h1>佾儒算明牌，今彩539預測</h1>
+        <p>今日號碼：</p>
         <div class="numbers">{result_string}</div>
         <p>更新時間 (UTC): {update_time}</p>
-        <div class="footer">本網站目前為測試階段，數字為隨機生成，僅供開發測試。</div>
+        <div class="footer">自小被阿仁每天問明牌，長大學AI寫程式乾脆來算算看，本網站目前為測試階段，數字為隨機生成，僅供開發測試。</div>
     </div>
 </body>
 </html>
