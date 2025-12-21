@@ -30,7 +30,7 @@ html_content = f"""
         <p>今日號碼：</p>
         <div class="numbers">{result_string}</div>
         <p>更新時間 (UTC): {update_time}</p>
-        <div class="footer">自小被阿仁每天問明牌，長大學AI寫程式乾脆來算算看，本網站目前為測試階段，數字為隨機生成，僅供開發測試。</div>
+        <div class="footer">小時候都被阿仁問明牌，長大學AI寫程式乾脆來算算看，本網站目前為測試階段，數字為隨機生成，僅供開發測試。</div>
     </div>
 </body>
 </html>
