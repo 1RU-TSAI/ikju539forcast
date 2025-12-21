@@ -15,7 +15,7 @@ html_content = f"""
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>今彩539 每日預測 (測試版)</title>
+    <title>佾儒算明牌，今彩539預測(測試中)</title>
     <style>
         body {{ font-family: Arial, sans-serif; text-align: center; padding-top: 50px; background-color: #f0f2f5; }}
         .container {{ background: white; padding: 30px; border-radius: 10px; display: inline-block; box-shadow: 0 4px 6px rgba(0,0,0,0.1); }}
